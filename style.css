@@ -285,9 +285,20 @@ section {
 .details-container {
     padding: 0.5rem;
     flex: 1;
-    background: white;
-    border-radius: 2rem;
-    border: rgb(53,53,53) 0.3rem solid;
+    /* background: white; */
+    border-radius: 1.5rem;
+    border: rgb(53,53,53) 0.1rem solid;
+    border-color: rgb(163,163,163);
+    text-align: center;
+    justify-content: center;
+}
+
+.devops-container{
+    padding: 0.5rem;
+    /* flex: 1; */
+
+    border-radius: 1.5rem;
+    border: rgb(53,53,53) 0.1rem solid;
     border-color: rgb(163,163,163);
     text-align: center;
     justify-content: center;
