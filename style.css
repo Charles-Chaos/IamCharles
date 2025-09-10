@@ -161,6 +161,9 @@ section {
     gap: 5rem;
     /* height: 10vh; */
 }
+.hint{
+    border-radius: 5rem;
+}
 
 .section__pic-container {
     display: flex;
